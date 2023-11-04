@@ -1,14 +1,10 @@
 # Data can be downloaded from: 
-- https://www.kaggle.com/datasets/alessandrolobello/the-ultimate-earthquake-dataset-from-1990-2023
-- kaggle datasets download -d alessandrolobello/the-ultimate-earthquake-dataset-from-1990-2023
+- https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
+- kaggle datasets download -d heesoo37/120-years-of-olympic-history-athletes-and-results
 
 ## Data description:
-- The earthquakes dataset is an extensive collection of data containing information about all the earthquakes recorded worldwide from 1990 to 2023. The dataset comprises approximately three million rows, with each row representing a specific earthquake event. Each entry in the dataset contains a set of relevant attributes related to the earthquake, such as the date and time of the event, the geographical location (latitude and longitude), the magnitude of the earthquake, the depth of the epicenter, the type of magnitude used for measurement, the affected region, and other pertinent information.
+- This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.
+- Note that the Winter and Summer Games were held in the same year up until 1992. After that, they staggered them such that Winter Games occur on a four year cycle starting with 1994, then Summer in 1996, then Winter in 1998, and so on. A common mistake people make when analyzing this data is to assume that the Summer and Winter Games have always been staggered.
 
-## Importance and Utility of the Dataset:
-
-- Earthquake Analysis and Prediction: The dataset provides a valuable data source for scientists and researchers interested in analyzing spatial and temporal distribution patterns of earthquakes. By studying historical data, trends, and patterns, it becomes possible to identify high-risk seismic zones and develop predictive models to forecast future seismic events more accurately.
-- Safety and Prevention: Understanding factors contributing to earthquake frequency and severity can assist authorities and safety experts in implementing preventive measures at both local and global levels. These data can enhance the design and construction of earthquake-resistant infrastructures, reducing material damage and safeguarding human lives.
-- Seismological Science: The dataset offers a critical resource for seismologists and geologists studying the dynamics of the Earth's crust and various geological faults. Analyzing details of recorded earthquakes allows for a deeper comprehension of geological processes leading to seismic activity.
-- Study of Tectonic Movements: The dataset can be utilized to analyze patterns of tectonic movements in specific areas over the years. This may help identify seasonal or long-term seismic activity, providing additional insights into plate tectonic behavior.
-- Public Information and Awareness: Earthquake data can be made accessible to the public through portals and applications, enabling individuals to monitor seismic activity in their regions of interest and promoting awareness and preparedness for earthquakes.
+## Acknowledgements
+The Olympic data on www.sports-reference.com is the result of an incredible amount of research by a group of Olympic history enthusiasts and self-proclaimed 'statistorians'. Check out their blog (https://olympstats.com/) for more information. All I did was consolidated their decades of work into a convenient format for data analysis.
