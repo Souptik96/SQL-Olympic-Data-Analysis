@@ -4,7 +4,7 @@
 This project focuses on conducting an exploratory data analysis (EDA) of Olympic history using SQL as the primary tool. We delve into historical Olympic Games data to uncover insights, trends, and stories that have shaped the world's most celebrated sporting event.
 
 ## Data Source
-- **Olympic Games Dataset**: We use a comprehensive dataset that includes information on Olympic Games, athletes, sports, events, and medal winners throughout the history of the Olympics.
+- **Olympic Games Dataset**: We use a comprehensive dataset that includes information on Olympic Games, athletes, sports, events, and medal winners throughout the history of the Olympics. The same can be accessed at: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
 
 ## Key Objectives
 1. **Data Exploration**: Explore the Olympic dataset to understand its structure and contents.
@@ -13,7 +13,7 @@ This project focuses on conducting an exploratory data analysis (EDA) of Olympic
 4. **Historical Analysis**: Examine the evolution of the Olympic Games, focusing on changes in sports, athlete demographics, host cities, and more.
 5. **Predictive Analysis**: Utilize SQL for predictive analysis, such as forecasting future trends or outcomes in Olympic history.
 
-## SQL Techniques and Queries
+## Approach
 - We leverage various SQL techniques, including SELECT statements, JOIN operations, aggregation functions, subqueries, and window functions, to extract, transform, and analyze the Olympic data.
 
 ## Structure of the Project
